@@ -1,0 +1,113 @@
+body{width:90%;
+	background: #323232;
+	margin:auto;}
+h1 {font-family: 'Limelight';
+	font-size: 60px;
+	text-align: center; 
+	color: white;}
+h2 {font-family: 'DM Serif Display';
+	font-style: italic;
+	font-size: 30px; 
+	color: black;
+	background:white;
+	border: 2px solid black;
+	padding-left::10px;
+	clear:both;}
+h3 {font-family: 'Baskervville';
+	font-size: 25px; 
+	color: white;
+	background:;
+	text-align: center;
+	float: left;
+	padding-left:;
+	padding-bottom: 10px;
+	clear:both;
+	float:left;
+	margin:10px;
+	width:30%;}
+p {font-family: 'Odor Mean Chey';
+	font-size: 14px; 
+	color: white;
+	word-spacing: 2px;}
+details{font-family: 'Baskervville';
+	font-size: 25px; 
+	color: white;
+	background: #020024;
+	border: 1px solid white;
+	text-align:center;
+	float:right;
+	padding-right:;
+	float: right;
+	margin:20px;
+	width:45%;}
+div {font-family: 'Lusitana';
+	font-size: 16px; 
+	color: white;
+	background:#020024;
+	border: 1px solid white;
+	float: left;
+	padding-right:20px;
+	padding-left:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin:15px;
+	margin-bottom: 15px;
+	float:left;
+	width:60%;}
+ul {font-family: 'Lusitana';
+	font-size: 16px; 
+	word-spacing: 2px;
+	color: white;
+	background:#020024;
+	border: 1px solid white;
+	float: left;
+	padding-left:;
+	margin:10px;
+	margin-bottom: 10px;
+	float:left;
+	width:60%;}
+link {font-style; 
+	color: white;
+	margin: 10px}
+table, th, td {font-family: 'Lusitana';
+	font-size: 16px; 
+	color: white;
+	background: black;
+	padding: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	border: 1px solid white;}
+th {text-align: center;
+	padding: 10px;
+	width: 100px;}
+td {float: center;
+	padding:10px;}
+table {width: 100%;
+	border: 1px solid white;
+	border-spacing: 5px;}
+.highlight {background: #020024; 
+	border: 1px solid white;
+	float: left;
+	padding-left:;
+	margin:10px;
+	margin-bottom: 10px;
+	float:left;
+	width:75%;}
+.img {background: #020024; 
+	border: 3px solid white;
+	float:right;
+	padding:10px;
+	clear:both;
+	margin:10px;
+	width:250px;}
+#title {text-align: center;
+	font-size: 23px;}
+#center {text-align: center;}
+#caption {font-family: 'Great Vibes';
+	font-size: 30px;
+	color: white;background: #020024;
+	border: 1px solid white;
+	float:center;
+	padding:10px;}
